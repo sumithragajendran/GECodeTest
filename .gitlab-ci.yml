@@ -1,7 +1,9 @@
+image: maven:latest
+
 java:
   stage: test
   script:
-  - $MAVEN_HOME/bin/mvn clean test
+  - mvn clean test
   artifacts:
     reports:
       junit:
