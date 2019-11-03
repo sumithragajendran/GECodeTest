@@ -1,5 +1,13 @@
 # Coding Exercise
 
+# Integrated with Gitlab for running Junit tests. Report can be viewed here,
+https://gitlab.com/sumithragajendran/GECodeTest/-/jobs/340411634
+
+Selected Exercises:
+Exercise 1
+
+Exercise 5
+
 ## General Instructions
 1. Fully review the instructions for all exercises before beginning.
 2. Select 2 of the 5 exercises to complete.
